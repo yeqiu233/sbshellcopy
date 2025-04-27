@@ -71,10 +71,6 @@
       "192.168.2.0/24",
       "192.168.100.0/24"
     ],
-    "route_exclude_address_set": [
-      "sbt.177966.xyz",
-      "baa.177966.xyz"
-  ],
     "endpoint_independent_nat": false,
     "stack": "mixed",
     "exclude_interface": [
