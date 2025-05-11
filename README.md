@@ -38,6 +38,9 @@ https://gh-proxy.com/https://github.com/yeqiu233/sbshellcopy/blob/main/config_te
 tun：  
 https://gh-proxy.com/https://github.com/yeqiu233/sbshellcopy/blob/main/config_template/config_tun.json
 
+tun：部分省份电信对联通IP进行屏蔽，这个是专属解决方案
+https://gh-proxy.com/https://github.com/yeqiu233/sbshellcopy/blob/main/config_template/config_tun_dianxin.json
+
 ## 卸载singbox裸核：
 
 ### debian卸载：
