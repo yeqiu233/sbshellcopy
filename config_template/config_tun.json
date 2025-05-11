@@ -125,6 +125,7 @@
      {"action":"reject", "protocol":"quic"},
      {"action":"route", "protocol":"bt", "outbound":"🌏️ BT下载"},
      {"action":"route", "domain":["clash.razord.top", " yacd.metacubex.one", " yacd.haishan.me", " d.metacubex.one"], "outbound":"🎯 全球直连"},
+     {"action":"route", "domain_suffix":["177966.xyz", " 155966.xyz", " 511966.xyz"], "outbound":"🚀 节点选择"},
      {"action":"route", "rule_set":["geosite-private","geoip-private"], "outbound":"🎯 全球直连"},
      {"action":"route", "rule_set":["geosite-chat"], "outbound":"🤖 OpenAI"},
      {"action":"route", "rule_set":["geosite-youtube"], "outbound":"📹 YouTube"},
